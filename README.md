@@ -9,6 +9,22 @@ Por enquanto pegando código das tabelas horárias das linhas EPTC.
 
 * Veja a sessão de [downloads](http://matehackers.org/doku.php?id=eptc_linhas&#tabelas_horarias)
 
+## Estrutura dos Dados
+
+Dados com exemplos de dado.
+
+    LinhaOnibus
+       codigo - string - "R16"
+       nome - string - "RAPIDA RESTINGA NOVA/GLORIA"
+       consorcio - string - "STS"
+       Horarios - lista de horarios
+          nome - string - "BAIRRO/CENTRO - Dias Úteis"
+          divisoes - lista de strings - ["06:24", "06:45", ..., "08:17"]
+          n_divisoes - inteiro - 6
+          minimo - inteiro - 10 # tempo minimo entre saidas
+          maximo - inteiro - 32 # tempo maximo
+          medio  - inteiro - 22 # tempo medio
+
 ## Para usar os dados
 
 Use qualquer linguagem com suporte a JSON ou XML. Exemplo com ruby
