@@ -9,6 +9,10 @@ Por enquanto pegando código das tabelas horárias das linhas EPTC.
 
 * Veja a sessão de [downloads](http://matehackers.org/doku.php?id=eptc_linhas&#tabelas_horarias)
 
+## Licensa
+
+O código está sob [MIT](http://opensource.org/licenses/MIT) e os dados estão sob a mesma licensa que no site da EPTC (domínio público?)
+
 ## Estrutura dos Dados
 
 Dados com exemplos de dado.
