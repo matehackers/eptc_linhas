@@ -11,7 +11,7 @@ Por enquanto pegando código das tabelas horárias das linhas EPTC.
 
 ## Licença
 
-O código está sob [MIT](http://opensource.org/licenses/MIT) e os dados estão sob a mesma licensa que no site da EPTC (domínio público?)
+O código está sob [MIT](http://opensource.org/licenses/MIT) e os dados estão sob a mesma licença que no site da EPTC (domínio público?)
 
 ## Estrutura dos Dados
 
